@@ -1,7 +1,6 @@
-# Todolist-project-2
-Simple Todo List App
+Simple Todo List 
 
 <p float="right">
-<img width="300"  src="IMG_4260.PNG">
+<img width="600"  src="1.png">
 
   </p>
